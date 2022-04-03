@@ -1,0 +1,10 @@
+Matrix: A thread per matrix
+
+row=3	column=4
+
+-1   10   -15   -28   
+-3   -10   15   -36   
+5   -2   -9   -20   
+
+Execution Time: 2904 microseconds
+Number of Threads: 1
